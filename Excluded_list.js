@@ -387,4 +387,20 @@ const EXCEL_COMPANIES = [
   //有误的数据
   "Rhino Technology Group, Inc",
   "MF Communications UK Ltd",
+  "TEKEUROPE UK",
+  "Renewtech DK fka. Kimbrer Computer ApS",
+  
+  //新增干净数据
+  "IT Product Supply LTD",
+  "Bizcom Europe Sp. z o.o.",
+  "Elevate Networks",
+  "SKTes France",
+  "Computer Data Source",
+  "Mobilos Single Member P.C. | VMS"
+
+  //新增别名数据 干净数据里的
+  "VOTERONIX LTD",
+
+  //没找到的公司
+  "Andeltech Electronics, GIGAHARDWARE",
 ];
