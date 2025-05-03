@@ -394,9 +394,10 @@ const EXCEL_COMPANIES = [
   "IT Product Supply LTD",
   "Bizcom Europe Sp. z o.o.",
   "Elevate Networks",
-  "SKTes France",
+  "SKTes France, SKtes Spain",
   "Computer Data Source",
   "Mobilos Single Member P.C. | VMS",
+  "Jet Computer",
 
   //新增别名数据 干净数据里的
   "VOTERONIX LTD",
