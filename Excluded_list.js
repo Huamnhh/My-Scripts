@@ -383,6 +383,7 @@ const EXCEL_COMPANIES = [
 
   //新增别名数据 干净数据里的
   "VOTERONIX LTD",
+  "VMS Ltd",
 
   //没找到的公司
   "Andeltech Electronics, GIGAHARDWARE",
