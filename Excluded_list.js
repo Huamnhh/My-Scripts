@@ -369,6 +369,10 @@ const EXCEL_COMPANIES = [
   "MF Communications UK Ltd",
   "TEKEUROPE UK",
   "Renewtech DK fka. Kimbrer Computer ApS",
+  "Tekeurope UK Limited - Devon",
+  "ORM Systems LLC USA",
+
+  
   
   //新增干净数据
   "IT Product Supply LTD",
@@ -380,6 +384,9 @@ const EXCEL_COMPANIES = [
   "Jet Computer",
   "FORMAX",
   "Kortek Ltd.",
+  "IT Refresh",
+  "Aeon Micro, Inc.",
+  
 
   //新增别名数据 干净数据里的
   "VOTERONIX LTD",
@@ -401,7 +408,18 @@ const EXCEL_COMPANIES = [
   "DECHO Network Technology LTD",
   "Joy Online Network Limited",
   "Coopak Networks",
+  "CAICHIPS PET LTD",
+  
 
   //被拉黑
   "Memory Clearance",
+  "Tacladders IT Solutions Private Limited",
+
+  //死忠粉
+  "CEC",
+
+
+  ///不从欧洲以外买
+  "Datek Solutions Ltd",
+  
 ];
