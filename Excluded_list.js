@@ -371,6 +371,8 @@ const EXCEL_COMPANIES = [
   "Renewtech DK fka. Kimbrer Computer ApS",
   "Tekeurope UK Limited - Devon",
   "ORM Systems LLC USA",
+  
+  
 
   
   
@@ -398,7 +400,7 @@ const EXCEL_COMPANIES = [
 
   //中国公司
   "Acorn Tech Service Limited",
-  "Quiksol International HK PTE limiteds  ",
+  "Quiksol International HK PTE limiteds",
   "Highsource Technology Co.Ltd",
   "CENTURY FUGUANG CO., LTD.",
   "Grandtec Industrial (Hongkong) Co., Ltd",
