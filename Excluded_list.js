@@ -371,8 +371,6 @@ const EXCEL_COMPANIES = [
   "Renewtech DK fka. Kimbrer Computer ApS",
   "Tekeurope UK Limited - Devon",
   "ORM Systems LLC USA",
-  
-  //新增干净数据
   "IT Product Supply LTD",
   "Bizcom Europe Sp. z o.o.",
   "Elevate Networks",
