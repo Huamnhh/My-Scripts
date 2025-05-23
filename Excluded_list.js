@@ -371,7 +371,6 @@ const EXCEL_COMPANIES = [
   "Renewtech DK fka. Kimbrer Computer ApS",
   "Tekeurope UK Limited - Devon",
   "ORM Systems LLC USA",
-  "Codinfos S.L.",
 
   //干净的数据
   "IT Product Supply LTD",
@@ -385,11 +384,17 @@ const EXCEL_COMPANIES = [
   "Kortek Ltd.",
   "IT Refresh",
   "Aeon Micro, Inc.",
+  "PC Arena",
+  "IT Creations Inc",
+  "FringeTel, LLC",
+  "Drew Telecom group Inc.",
+  "GoHardware GmbH",
   
 
   //新增别名数据 干净数据里的
   "VOTERONIX LTD",
   "VMS Ltd",
+  "TES-AMM Central Europe GmbH, TES-AMM SAS",
 
   
   //没找到的公司
@@ -414,6 +419,10 @@ const EXCEL_COMPANIES = [
   //被拉黑
   "Memory Clearance",
   "Tacladders IT Solutions Private Limited",
+  "Chayon Technologies LTD",
+  "Applied Technology Corporation",
+  "Massive Group",
+  
 
   //死忠粉
   "CEC",
