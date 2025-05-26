@@ -109,7 +109,7 @@ const EXCEL_COMPANIES = [
   "AJ Networx",
   "Revo Distribution Limited",
 /// 余安
-  "ADE-Vertriebs GmbH",
+  "ADE Vertriebs GmbH",
   "Codeo (Codeo Iberia)",
   "Inrego AB (Inrego Global AB)",
   "Sell Phone System (Clarion Communication Systems Ltd)",
@@ -129,7 +129,7 @@ const EXCEL_COMPANIES = [
   "Hardware You SLU Hardware You & Cloud",
   "PBXports Ltd",
   "Optimum Routing Machine Systems FZCO（ORM Systems）",
-  "Tekeurope UK Ltd",
+  "Tekeurope UK Limited - Devon",
 /// 莫月慧
   "Ameta Computer ApS",
   "Dealstunter",
@@ -369,8 +369,7 @@ const EXCEL_COMPANIES = [
   "MF Communications UK Ltd",
   "TEKEUROPE UK",
   "Renewtech DK fka. Kimbrer Computer ApS",
-  "Tekeurope UK Limited - Devon",
-  "ORM Systems LLC USA",
+
 
   //干净的数据
   "IT Product Supply LTD",
