@@ -65,7 +65,7 @@ const EXCEL_COMPANIES = [
   "Flagship Technologies Inc.",
   "ICS Europe Ltd (INTEGRATED COMPONENT SOURCE EU LTD)",
   "Impact Computers",
-  "Kimbrer Computer ApS (Renewtech)",
+  "Renewtech DK fka. Kimbrer Computer ApS",
   "Max ICT B.V.",
   "Missdata Di Romano Scilla （MISSDATA SRLS）",
   "PCM Leasing Corp",
@@ -241,7 +241,7 @@ const EXCEL_COMPANIES = [
   "Hillside Electronics Corporation",
   "MAS Integrated Systems(MAS)Ceremony LTD",
   "Nanosoft Corporation Limited",
-  "EONETIX Information Technology",
+  "EONETIX Information Technology HandelsgmbH",
   "Media & Communications Ltd (Best4Systems)",
   "Oredax",
   "A-tech network",
@@ -257,8 +257,13 @@ const EXCEL_COMPANIES = [
   "IT4Trade",
   "Paxel Technologies",
   "NewAge Technology Solutions, LLC",
-  "D&B Distributors Ltd",
+  "D and B Distributors Ltd",
   "Zayntek (Fornida)",
+  "IT Refresh",
+  "SKTes France, SKtes Spain",
+  "Aeon Micro, Inc.",
+  
+  
 /// 陈珊珊
   "Communications & Data, Inc（C&D Associates, Inc./C&D Communications,Inc）",
   "Computer-wereld",
@@ -330,6 +335,8 @@ const EXCEL_COMPANIES = [
   "Datamarked Aps（ITFIX Mariusz Fiertek）",
   "Notebook-Pro NPH GmbH",
   "Vooruit",
+  "FringeTel, LLC",
+  
 /// 张连军
   "Blue Point Voice and Data",
   "CBA Computer Broker AG",
@@ -355,6 +362,9 @@ const EXCEL_COMPANIES = [
   "MF Communications Limited",
   "TXC Technologies LLC",
   "Bitboard OÜ (LLC)",
+  "DBH Services",
+  "PC Handel",
+  
 /// 赖腾龙
   "Re-certify",
   "European Network Services SARL (ENS)",
@@ -362,30 +372,21 @@ const EXCEL_COMPANIES = [
   "Menke IT GmbH",
   "Docwizz SRL",
   "NTAST",
-
-
-  //有误的数据
-  "Rhino Technology Group, Inc",
-  "MF Communications UK Ltd",
-  "TEKEUROPE UK",
-  "Renewtech DK fka. Kimbrer Computer ApS",
+  
+  
 
 
   //干净的数据
   "IT Product Supply LTD",
   "Bizcom Europe Sp. z o.o.",
   "Elevate Networks",
-  "SKTes France, SKtes Spain",
   "Computer Data Source",
   "Mobilos Single Member P.C. | VMS",
   "Jet Computer",
   "FORMAX",
   "Kortek Ltd.",
-  "IT Refresh",
-  "Aeon Micro, Inc.",
   "PC Arena",
   "IT Creations Inc",
-  "FringeTel, LLC",
   "Drew Telecom group Inc.",
   "GoHardware GmbH",
   
@@ -394,6 +395,7 @@ const EXCEL_COMPANIES = [
   "VOTERONIX LTD",
   "VMS Ltd",
   "TES-AMM Central Europe GmbH, TES-AMM SAS",
+  "Niko Globaltrade",
 
   
   //没找到的公司
@@ -429,5 +431,6 @@ const EXCEL_COMPANIES = [
 
   ///不从欧洲以外买
   "Datek Solutions Ltd",
+
   
 ];
