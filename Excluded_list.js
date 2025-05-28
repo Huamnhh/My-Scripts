@@ -85,7 +85,7 @@ const EXCEL_COMPANIES = [
   "M&M",
   "PULSEINFORMATICA",
   "Iris Conex Ltd",
-  "Bitcare - Tecnologias de Informacao, SA",
+  "Bitcare- Tecnologias de Informacao, SA",
   "Anlauf Hardware GmbH",
   "South Supply TN",
   "Cypress Technology, Inc(J+J Nationwide enterprises)",
