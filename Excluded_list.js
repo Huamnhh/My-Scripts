@@ -58,6 +58,7 @@ const EXCEL_COMPANIES = [
   "Advanced Computer Systems LLC(ACS)",
   "G&S Communications and Technical Services",
   "Sterling Mobile Services, Inc",
+  "Elevate Networks, Elevate Global IT",
 /// 陆春洪
   "Astrocom Systems((VCF) )",
   "BT Systems Inc",
@@ -102,9 +103,9 @@ const EXCEL_COMPANIES = [
   "Fala Limited (Barcode Trade)",
   "NAS IT Solutions Ltd",
   "PICS Telecom (PICS Telecom International Ltd. ) (PICS Telecom International Asia Ltd. )",
-  "TXO Systems (MMX Communications)",
+  "TXO Systems1, TXO Systems2, TXO Systems3, TXO Systems4, (MMX Communications)",
   "Diversitec",
-  "SunCoast Communication",
+  "SunCoast Communications",
   "BrainBridge Outsourcing Services Pvt Ltd",
   "AJ Networx",
   "Revo Distribution Limited",
@@ -379,7 +380,7 @@ const EXCEL_COMPANIES = [
   //干净的数据
   "IT Product Supply LTD",
   "Bizcom Europe Sp. z o.o.",
-  "Elevate Networks",
+  
   "Computer Data Source",
   "Mobilos Single Member P.C. | VMS",
   "Jet Computer",
