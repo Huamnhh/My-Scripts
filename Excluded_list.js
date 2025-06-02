@@ -11,6 +11,8 @@ const EXCEL_COMPANIES = [
   "PowerTech Inc",
   "Easy Hardware Trading",
   "Enterasource LLC",
+  "Drew Telecom group Inc.",
+  
 /// 刘敏燕
   "America Tecnologia",
   "fortune associates(Shakun Associates Inc， Shakun Associates Private Limited)",
@@ -18,8 +20,8 @@ const EXCEL_COMPANIES = [
   "MIDRANGE REPAIR & PARTS  (MRP, MRP - A ServIT Company)",
   "Redsis Corp",
   "Superior Telecom,LLC",
-  "TDS  (Trade Develepment Strategies Inc.)",
-  "Tekserve, Inc",
+  "TDS Computer LLC  (Trade Develepment Strategies Inc.)",
+  "Tekserve (TekserveBB1, TekserveBB2)",
   "Versatile Mobile Systems (JPT barcode) (A Barcoding, Inc. Company) (Barcode-house) DecisionPoint Technologies",
   "Viking Computer Parts, Inc",
   "Amerinode=AMERINODE VZ, C.A =AMERINODE DE MEXICO S.A. DE C.V.  =Amerinode Brazil /Amerinode Ecuador/Amerinode South America",
@@ -37,6 +39,10 @@ const EXCEL_COMPANIES = [
   "MCR-Austria / Mobile Computer Repair",
   "Arbitech, LLC(BecTech Global)",
   "Comstex GmbH & Co. KG",
+  "Mobilos Single Member P.C. | VMS",
+  "Jet Computer",
+  "Bizcom Europe Sp. z o.o.",
+  
 /// 杨少棠
   "Data Capture Solutions (Legacy Technology Services)",
   "Mileservices",
@@ -58,7 +64,9 @@ const EXCEL_COMPANIES = [
   "Advanced Computer Systems LLC(ACS)",
   "G&S Communications and Technical Services",
   "Sterling Mobile Services, Inc",
+  "Computer Data Source",
   "Elevate Networks, Elevate Global IT",
+  
 /// 陆春洪
   "Astrocom Systems((VCF) )",
   "BT Systems Inc",
@@ -97,6 +105,7 @@ const EXCEL_COMPANIES = [
   "Matrizmultipla - Unipessoal LDA",
   "Infocus ID Ltd",
   "JANS-it",
+  
 /// 卢秋婷
   "AirWay Technologies, INC",
   "Evernex (aka IB REMARKETING, Technogroup IT-Service Sp. z o.o )",
@@ -109,6 +118,7 @@ const EXCEL_COMPANIES = [
   "BrainBridge Outsourcing Services Pvt Ltd",
   "AJ Networx",
   "Revo Distribution Limited",
+  
 /// 余安
   "ADE Vertriebs GmbH",
   "Codeo (Codeo Iberia)",
@@ -131,6 +141,7 @@ const EXCEL_COMPANIES = [
   "PBXports Ltd",
   "Optimum Routing Machine Systems FZCO（ORM Systems）",
   "Tekeurope UK Limited - Devon",
+  
 /// 莫月慧
   "Ameta Computer ApS",
   "Dealstunter",
@@ -164,6 +175,9 @@ const EXCEL_COMPANIES = [
   "Jerry Howard",
   "cheolhwa lee （joosung）",
   "Overseas Technology Center Pte LTd",
+  "Andeltech Electronics, GIGAHARDWARE",
+  "IT Product Supply LTD (VOTERONIX)",
+  
 /// 安雅琼
   "DSM Distribution",
   "Euro IT Solution LTD (Tier1 Data Systems)",
@@ -183,6 +197,7 @@ const EXCEL_COMPANIES = [
   "TVDL Computers",
   "Technoverse Business Solutions",
   "MAG Traders Ltd",
+  
 /// 单倩倩
   "ADCbit B.V.",
   "Codelogic",
@@ -202,7 +217,7 @@ const EXCEL_COMPANIES = [
   "Washburn Computer Group",
   "Simpatico Network srl",
   "IT-Planet GmbH",
-  "Ghekko Limited (Ghekko Networks Inc. , A1 Teletronics, Inc.)",
+  "Ghekko Limited (Ghekko Networks Inc. FKA A1 Teletronics)",
   "Macrefresh Ltd",
   "NKS Group Sp. z o. o.",
   "Inforsight Ltd Inforsight Limited",
@@ -218,11 +233,15 @@ const EXCEL_COMPANIES = [
   "Group24 AG",
   "Ecoele UG",
   "Good PC OU（Good PC OÜ，Wise Europe S.A，Good Choice）",
-  "Connect IT (Connect IT B.V.) （Info . Connect IT）",
+  "Connect IT Germany/Denmark/Spain",
   "Advance Vendor Access",
   "HCO Group Limited (Re-Macs)",
   "Tellus Remarketing ApS (Tier1 Asset A/S) Tellusrem)",
   "Refurb-UK",
+  "Kortek Ltd.",
+  "FORMAX",
+  "PC Arena",
+  
 /// 文明
   "A.B. Distributing, Inc (B3E LLC, Sachem, LLC)",
   "Advanced Technologies International LLC",
@@ -261,9 +280,8 @@ const EXCEL_COMPANIES = [
   "D and B Distributors Ltd",
   "Zayntek (Fornida)",
   "IT Refresh",
-  "SKTes France, SKtes Spain",
+  "SKTes France, SKtes Spain, TES-AMM Central Europe GmbH, TES-AMM SAS",
   "Aeon Micro, Inc.",
-  
   
 /// 陈珊珊
   "Communications & Data, Inc（C&D Associates, Inc./C&D Communications,Inc）",
@@ -305,7 +323,7 @@ const EXCEL_COMPANIES = [
   "CARRIER SERVICES GROUP （CSG）",
   "NCOM SRL",
   "Direct Hardware Supply (DHS)",
-  "A2C Services Ltd/ Circular Computing",
+  "A2C SERVICES/CIRCULAR COMPUTING",
   "Digoo IT Distribution",
   "Datamax System Solutions Datamax Services Inc.",
   "Cykero Cykero GMBH Cykero SAS",
@@ -316,6 +334,9 @@ const EXCEL_COMPANIES = [
   "Q Products BV",
   "AlfaNet S.A. (AlfaNet SYSTIMATA) ALFANET SISTIMATA PLIROFORIKIS S.A",
   "Renew-IT Solutions (GVS Consulting) (GVS Consulting COMMV)",
+  "IT Creations Inc",
+  "GoHardware GmbH",
+  
 /// 陶丽珍
   "All Birotic Devices",
   "Carlex Ltd",
@@ -362,9 +383,9 @@ const EXCEL_COMPANIES = [
   "IP Supply Pty Ltd",
   "MF Communications Limited",
   "TXC Technologies LLC",
-  "Bitboard OÜ (LLC)",
+  "Bitboard OÜ",
   "DBH Services",
-  "PC Handel",
+  "PC Handel, (Niko Globaltrade)",
   
 /// 赖腾龙
   "Re-certify",
@@ -374,33 +395,6 @@ const EXCEL_COMPANIES = [
   "Docwizz SRL",
   "NTAST",
   
-  
-
-
-  //干净的数据
-  "IT Product Supply LTD",
-  "Bizcom Europe Sp. z o.o.",
-  
-  "Computer Data Source",
-  "Mobilos Single Member P.C. | VMS",
-  "Jet Computer",
-  "FORMAX",
-  "Kortek Ltd.",
-  "PC Arena",
-  "IT Creations Inc",
-  "Drew Telecom group Inc.",
-  "GoHardware GmbH",
-  
-
-  //新增别名数据 干净数据里的
-  "VOTERONIX LTD",
-  "VMS Ltd",
-  "TES-AMM Central Europe GmbH, TES-AMM SAS",
-  "Niko Globaltrade",
-
-  
-  //没找到的公司
-  "Andeltech Electronics, GIGAHARDWARE",
 
   //中国公司
   "Acorn Tech Service Limited",
@@ -424,7 +418,7 @@ const EXCEL_COMPANIES = [
   "Chayon Technologies LTD",
   "Applied Technology Corporation",
   "Massive Group",
-  
+
 
   //死忠粉
   "CEC",
