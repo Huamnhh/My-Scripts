@@ -42,6 +42,7 @@ const EXCEL_COMPANIES = [
   "Mobilos Single Member P.C. | VMS",
   "Jet Computer",
   "Bizcom Europe Sp. z o.o.",
+  "U.S. Computer Support, Inc.",
   
 /// 杨少棠
   "Data Capture Solutions (Legacy Technology Services)",
@@ -177,6 +178,7 @@ const EXCEL_COMPANIES = [
   "Overseas Technology Center Pte LTd",
   "Andeltech Electronics, GIGAHARDWARE",
   "IT Product Supply LTD (VOTERONIX)",
+  "Get-It Co. Ltd",
   
 /// 安雅琼
   "DSM Distribution",
@@ -358,6 +360,7 @@ const EXCEL_COMPANIES = [
   "Notebook-Pro NPH GmbH",
   "Vooruit",
   "FringeTel, LLC",
+  "GreenFever, LDA",
   
 /// 张连军
   "Blue Point Voice and Data",
