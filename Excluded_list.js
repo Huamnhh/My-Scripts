@@ -106,6 +106,7 @@ const EXCEL_COMPANIES = [
   "Matrizmultipla - Unipessoal LDA",
   "Infocus ID Ltd",
   "JANS-it",
+  "Reprise IT Ltd",
   
 /// 卢秋婷
   "AirWay Technologies, INC",
@@ -284,6 +285,7 @@ const EXCEL_COMPANIES = [
   "IT Refresh",
   "SKTes France, SKtes Spain, TES-AMM Central Europe GmbH, TES-AMM SAS",
   "Aeon Micro, Inc.",
+  "Communications Hardware Exchange",
   
 /// 陈珊珊
   "Communications & Data, Inc (C&D Associates, Inc./C&D Communications,Inc)",
@@ -338,6 +340,8 @@ const EXCEL_COMPANIES = [
   "Renew-IT Solutions (GVS Consulting) (GVS Consulting COMMV)",
   "IT Creations Inc",
   "GoHardware GmbH",
+  "RecycleIT",
+  
   
 /// 陶丽珍
   "All Birotic Devices",
