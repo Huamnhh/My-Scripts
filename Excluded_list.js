@@ -341,6 +341,7 @@ const EXCEL_COMPANIES = [
   "IT Creations Inc",
   "GoHardware GmbH",
   "RecycleIT",
+  "REL Group",
   
   
 /// 陶丽珍
