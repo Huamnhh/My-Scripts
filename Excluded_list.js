@@ -285,7 +285,7 @@ const EXCEL_COMPANIES = [
   "IT Refresh",
   "SKTes France, SKtes Spain, TES-AMM Central Europe GmbH, TES-AMM SAS",
   "Aeon Micro, Inc.",
-  "Communications Hardware Exchange",
+  "Communications Hardware Exchange, (Penix Industries DBA)",
   
 /// 陈珊珊
   "Communications & Data, Inc (C&D Associates, Inc./C&D Communications,Inc)",
