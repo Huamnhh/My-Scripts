@@ -143,6 +143,7 @@ const EXCEL_COMPANIES = [
   "PBXports Ltd",
   "Optimum Routing Machine Systems FZCO (ORM Systems)",
   "Tekeurope UK Limited - Devon",
+  "Retex S.p.A Societa Benefit",
   
 /// 莫月慧
   "Ameta Computer ApS",
