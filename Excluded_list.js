@@ -120,6 +120,7 @@ const EXCEL_COMPANIES = [
   "BrainBridge Outsourcing Services Pvt Ltd",
   "AJ Networx",
   "Revo Distribution Limited",
+  "Networkser Group B.V.",
   
 /// 余安
   "ADE Vertriebs GmbH",
