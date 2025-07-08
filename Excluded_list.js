@@ -246,6 +246,7 @@ const EXCEL_COMPANIES = [
   "Kortek Ltd.",
   "FORMAX",
   "PC Arena",
+  "Vyta Secure Ltd (IT Refreshed Global Ltd t/a Refreshed By Us.)",
   
 /// 文明
   "A.B. Distributing, Inc (B3E LLC, Sachem, LLC)",
