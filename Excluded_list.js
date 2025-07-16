@@ -407,6 +407,7 @@ const EXCEL_COMPANIES = [
   "Docwizz SRL",
   "NTAST",
   "iPCZEN",
+  "D. Gerasis - K. Karpouzas G.P. Rename",
 
 
 
