@@ -346,6 +346,7 @@ const EXCEL_COMPANIES = [
   "GoHardware GmbH",
   "RecycleIT",
   "REL Group",
+  "Unicom Asset Recovery",
   
   
 /// 陶丽珍
