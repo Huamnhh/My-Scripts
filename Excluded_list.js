@@ -345,7 +345,6 @@ const EXCEL_COMPANIES = [
   "IT Creations Inc",
   "GoHardware GmbH",
   "RecycleIT",
-  "REL Group",
   "Unicom Asset Recovery",
   
   
