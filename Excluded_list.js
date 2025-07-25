@@ -408,6 +408,7 @@ const EXCEL_COMPANIES = [
   "NTAST",
   "iPCZEN",
   "D. Gerasis - K. Karpouzas G.P. Rename",
+  "Goto Direct Inc",
 
 
 
