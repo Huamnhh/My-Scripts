@@ -205,7 +205,7 @@ const EXCEL_COMPANIES = [
   
 /// 单倩倩
   "ADCbit B.V.",
-  "Codelogic",
+  "Codelogic AIDC Ltd.",
   "Comptest Polska Sp z o. o. (COMPTEST GROUP SP Z O.O.)",
   "CUADRANT ( Netmode, NETGenetics, Platform Management LLC, Accela Networks , Volantra Networks)",
   "Cyberpulse Computing LTD",
