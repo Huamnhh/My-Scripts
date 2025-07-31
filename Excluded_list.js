@@ -398,6 +398,7 @@ const EXCEL_COMPANIES = [
   "Bitboard OÜ",
   "DBH Services",
   "PC Handel, (Niko Globaltrade)",
+  "CES Telecom Ltd",
   
 /// 赖腾龙
   "Re-certify",
