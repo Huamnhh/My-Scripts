@@ -439,6 +439,17 @@ const EXCEL_COMPANIES = [
   "Chayon Technologies LTD",
   "Applied Technology Corporation",
   "Massive Group",
+  "(被拉黑) RECYNEW",
+  "(被拉黑) Moorup Technology",
+  "(被拉黑) Eurotech Trade a.s.",
+  "(出生) Cherrytronix BV",
+  "(香港的RAM) Value Smart Trading Ltd.",
+  "(只要打印机) GreenMind",
+  "(一心只想卖我东西的索菲亚) Renew IT Pty Ltd",
+  "(不买) BuyBackIT.dk",
+  "(取消订阅) Clevermet Sp. z o.o.",
+  "(被拉黑) COMPUTER TRADE SERVICE",
+  
 
 
   //死忠粉
