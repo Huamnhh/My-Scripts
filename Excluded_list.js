@@ -182,6 +182,7 @@ const EXCEL_COMPANIES = [
   "Andeltech Electronics, GIGAHARDWARE",
   "IT Product Supply LTD (VOTERONIX)",
   "Get-It Co. Ltd",
+  "HAM GROUP (SIMPOER LASSANA)",
   
 /// 安雅琼
   "DSM Distribution",
