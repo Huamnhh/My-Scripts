@@ -357,13 +357,13 @@ const EXCEL_COMPANIES = [
   "inComputer s.r.o",
 
   "ReuseIT Sweden AB",
-  "Serverfi Ltd",
+
   "Vladimir Chumakov / Hells Dells Chumakov / Aranovsky GbR",
   "MTJ Electronics",
   "BudgetTrading",
   "LM Eco Production",
   "Backslash Vertriebs GmbH",
-  "COMPOSITE NETWORK",
+
 
   "Interbyte Pty Ltd",
   "Datamarked Aps (ITFIX Mariusz Fiertek)",
