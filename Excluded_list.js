@@ -355,7 +355,7 @@ const EXCEL_COMPANIES = [
   "Ecodair ea Paca",
   "ESI Technologies Inc",
   "inComputer s.r.o",
-  "Northland Systems",
+
   "ReuseIT Sweden AB",
   "Serverfi Ltd",
   "Vladimir Chumakov / Hells Dells Chumakov / Aranovsky GbR",
@@ -364,12 +364,12 @@ const EXCEL_COMPANIES = [
   "LM Eco Production",
   "Backslash Vertriebs GmbH",
   "COMPOSITE NETWORK",
-  "Go Communications Systems",
+
   "Interbyte Pty Ltd",
   "Datamarked Aps (ITFIX Mariusz Fiertek)",
   "Notebook-Pro NPH GmbH",
   "Vooruit",
-  "FringeTel, LLC",
+
   "GreenFever, LDA",
   
 /// 张连军
