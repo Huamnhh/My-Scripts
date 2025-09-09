@@ -12,6 +12,7 @@ const EXCEL_COMPANIES = [
   "Easy Hardware Trading",
   "Enterasource LLC",
   "Drew Telecom group Inc.",
+  "Teltech Communications",
   
 /// 刘敏燕
   "America Tecnologia",
@@ -183,6 +184,7 @@ const EXCEL_COMPANIES = [
   "IT Product Supply LTD (VOTERONIX)",
   "Get-It Co. Ltd",
   "HAM GROUP (SIMPOER LASSANA)",
+  "ISSIG",
   
 /// 安雅琼
   "DSM Distribution",
