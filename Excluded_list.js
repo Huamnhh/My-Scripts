@@ -460,8 +460,10 @@ const EXCEL_COMPANIES = [
   "CEC",
 
 
-  ///不从欧洲以外买
-  "Datek Solutions Ltd",
+  ///出生
+  "不从欧洲以外买 Datek Solutions Ltd",
+  "不从中国买 CXtec",
+  "分不清 Interzero Product Cycle GmbH",
 
   
 ];
